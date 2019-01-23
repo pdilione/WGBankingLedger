@@ -1,0 +1,13 @@
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\obj\Debug\BankingLedger_Console.csproj.CoreCompileInputs.cache
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\bin\Debug\BankingLedger_Console.exe.config
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\bin\Debug\BankingLedger_Console.exe
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\bin\Debug\BankingLedger_Console.pdb
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\obj\Debug\BankingLedger_Console.exe
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\obj\Debug\BankingLedger_Console.pdb
+C:\Users\Paul Dilione\source\repos\BankingLedger_Console\BankingLedger_Console\bin\Debug\BankingLedger_Console.exe.config
+C:\Users\Paul Dilione\source\repos\BankingLedger_Console\BankingLedger_Console\bin\Debug\BankingLedger_Console.exe
+C:\Users\Paul Dilione\source\repos\BankingLedger_Console\BankingLedger_Console\bin\Debug\BankingLedger_Console.pdb
+C:\Users\Paul Dilione\source\repos\BankingLedger_Console\BankingLedger_Console\obj\Debug\BankingLedger_Console.csprojAssemblyReference.cache
+C:\Users\Paul Dilione\source\repos\BankingLedger_Console\BankingLedger_Console\obj\Debug\BankingLedger_Console.csproj.CoreCompileInputs.cache
+C:\Users\Paul Dilione\source\repos\BankingLedger_Console\BankingLedger_Console\obj\Debug\BankingLedger_Console.exe
+C:\Users\Paul Dilione\source\repos\BankingLedger_Console\BankingLedger_Console\obj\Debug\BankingLedger_Console.pdb

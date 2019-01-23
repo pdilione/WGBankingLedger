@@ -1,0 +1,6 @@
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\bin\Debug\BankingLedger - Console.exe.config
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\bin\Debug\BankingLedger - Console.exe
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\bin\Debug\BankingLedger - Console.pdb
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\obj\Debug\BankingLedger - Console.csproj.CoreCompileInputs.cache
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\obj\Debug\BankingLedger - Console.exe
+C:\Users\Paul Dilione\source\repos\BankingLedger - Console\BankingLedger - Console\obj\Debug\BankingLedger - Console.pdb
